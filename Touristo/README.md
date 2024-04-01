@@ -1,54 +1,16 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4)
 
-  <br />
-  <br />
+Touristo
+A curated, responsive travel agency website that connects travelers with their dream destinations.
 
-  <h2 align="center">Tourest - Travel website</h2>
-
-  Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/tourest/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Tourest Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Tourest** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/tourest.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/tourest.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+-Fully responsive design optimized for desktop, tablet, and mobile devices
+-Stylish, easy-to-use navigation menu with toggle functionality
+-Visually engaging hero section with a custom background and vector shapes
+-Feature-rich destination section showcasing popular destinations
+-Interactive popular tours section with tour details and booking options
+-Informative about section with a visually appealing banner and a newsletter form
+-Engaging blog section with news, articles, and social sharing options
+-Mobile-friendly, easy-to-use footer with newsletter sign-up form and social media icons
+-Go-to-top button for quick navigation
+-Custom JavaScript code for navigation and go-to-top button functionality
+-Ionicons library for displaying icons across the website
+-Favicon for a polished user experience
